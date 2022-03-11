@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">蓝牙小车</string>
+    <string name="bluetooth_hint">蓝牙:</string>
+    <string name="search">搜索</string>
+
+    <string name="left_move_forward">左前</string>
+    <string name="move_forward">前</string>
+    <string name="right_move_forward">右前</string>
+
+    <string name="left_move">左</string>
+    <string name="stop_move">停</string>
+    <string name="right_move">右</string>
+
+    <string name="left_move_backward">左后</string>
+    <string name="move_backward">后</string>
+    <string name="right_move_backward">右后</string>
+
+    <string name="context">内容：</string>
+    <string name="tnr">内容</string>
+    <string name="tSend">发送</string>
+
+    <string name="close">关闭</string>
+    <string name="unConnected">未连接</string>
+    <string name="onConnecting">正在连接</string>
+    <string name="connected">已连接</string>
+    <string name="exit">退出</string>
+    <string name="clear">清空</string>
+    <string name="on">打开</string>
+    <string name="off">关闭</string>
+    <string name="onon">已打开</string>
+    <string name="onoff">打开/关闭</string>
+    <string name="offoff">已关闭</string>
+    <string name="stop">停止</string>
+    <string name="cancelSearch">已取消搜索</string>
+    <string name="onSearch">搜索中,请稍后…</string>
+    <string name="connectBluetooth">请连接蓝牙</string>
+
+</resources>
