@@ -30,6 +30,8 @@
     <string name="onon">已打开</string>
     <string name="onoff">打开/关闭</string>
     <string name="offoff">已关闭</string>
+
+    <string name="hexShow">HEX显示</string>
     <string name="stop">停止</string>
     <string name="cancelSearch">已取消搜索</string>
     <string name="onSearch">搜索中,请稍后…</string>

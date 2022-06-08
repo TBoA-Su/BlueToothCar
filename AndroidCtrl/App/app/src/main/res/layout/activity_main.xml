@@ -57,6 +57,7 @@
         android:orientation="vertical">
 
         <ScrollView
+            android:id="@+id/scrollView"
             android:layout_width="match_parent"
             android:layout_height="0dp"
             android:layout_weight="1">
@@ -197,7 +198,8 @@
                 android:id="@+id/et"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/tnr" />
+                android:hint="@string/tnr"
+                tools:ignore="SpeakableTextPresentCheck" />
 
         </com.google.android.material.textfield.TextInputLayout>
 
